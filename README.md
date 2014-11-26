@@ -1,3 +1,8 @@
+This is Seth Lofgreen using Git for the first time. Yay!
+
+
+
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
